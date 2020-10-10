@@ -1,0 +1,6 @@
+pywin32==227
+uiautomation==2.0.6
+AppKit==0.2.8
+Foundation==0.1.0a0.dev1
+python_dateutil==2.8.1
+win32gui==221.6
