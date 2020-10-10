@@ -13,6 +13,8 @@ A time tracking app that keeps track of all the activities you do on your deskto
 
 # Usage
 ```
+pip install -r requirements.txt
+
 python autotimer.py
 
 ```
