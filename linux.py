@@ -1,5 +1,5 @@
 ''' 
-This file gives the linux support for this repo
+linux support for this repo
 '''
 import sys
 import os
