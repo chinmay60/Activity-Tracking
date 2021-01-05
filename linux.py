@@ -8,9 +8,7 @@ import re
 
 
 def get_active_window_raw():
-    '''
-    returns the details about the window not just the title
-    '''
+  
     root = subprocess.Popen(
         ['xprop', '-root', '_NET_ACTIVE_WINDOW'], stdout=subprocess.PIPE)
     stdout, stderr = root.communicate()
